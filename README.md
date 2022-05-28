@@ -1,5 +1,5 @@
 # Hi, welcome to my GitHub!
-I am a Bioinformatics PhD student in Małopolska Center of Biotechnology UJ
+I am a Bioinformatician in Małopolska Center of Biotechnology UJ
 
 - I work with analysis of human gut microbiome. 
 - My main area of interest is Data Science applied to biomedical sciences. My main language is Python and my fav tool is Jupyter Notebook.
