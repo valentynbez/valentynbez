@@ -1,6 +1,8 @@
-# Hi there, welcome to my GitHub! Feel free to explore.
-I am a PhD Student @ Sunagawa Lab, ETH Zürich
+# Hi there 👋
+Welcome to my GitHub! 
 
+- PhD Student @ Sunagawa Lab, ETH Zürich 
+- Doing research in human gut metagenomics and viromics. 🦠
 - MD with passion for data science & bioinformatics. 👨‍🏫 
 - Open for cooperation. 🤝
 
