@@ -1,8 +1,9 @@
 # Hi there 👋
 Welcome to my GitHub! 
 
-- PhD Student @ Sunagawa Lab, ETH Zürich 
+- PhD Student @ Sunagawa Lab, ETH Zürich
 - Doing research in human gut metagenomics and viromics. 🦠
+- [QIIME 2](https://forum.qiime2.org/) Forum moderator.
 - MD with passion for data science & bioinformatics. 👨‍🏫 
 - Open for cooperation. 🤝
 
