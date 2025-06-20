@@ -3,8 +3,8 @@ Welcome to my GitHub!
 
 - PhD Student @ [Sunagawa Lab](https://micro.biol.ethz.ch/research/sunagawa.html), ETH Zürich 
 - Doing research in human gut metagenome and viromics. 🦠
-- [QIIME 2 Forum](https://forum.qiime2.org/) moderator.
-- MD with passion for data science, software engineering and bioinformatics. 👨‍🏫 
+- [QIIME 2](https://qiime2.org/) contributor.
+- MD with a passion for data science, software engineering and bioinformatics. 👨‍🏫 
 - Open for cooperation. 🤝
 
 <a href="https://github.com/valentynbez">
